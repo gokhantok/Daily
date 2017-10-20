@@ -309,7 +309,7 @@ public class AddToDoActivity extends AppCompatActivity implements  DatePickerDia
                 i.setType("text/plain");
                 i.putExtra(android.content.Intent.EXTRA_SUBJECT, mUserEnteredText);
                 i.putExtra(android.content.Intent.EXTRA_TEXT, mUserEnteredText + ", " + mUserEnteredContent);
-                startActivity(Intent.createChooser(i, "Share via"));
+                startActivity(Intent.createChooser(i, "paylaş"));
                 hideKeyboard(mToDoTextBodyEditText);
 
             }
