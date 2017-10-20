@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="no_to_dos">Herhangi bir not kaydetmediniz</string>
+    <string name="title">Başlık</string>
+    <string name="remind_me">Hatırlat</string>
+    <string name="choose_date">Date</string>
+    <string name="choose_time">Time</string>
+    <string name="remind_date_and_time">Bana %1$s, %2$s %3$s tarihinde hatırlat</string>
+    <string name="about">Hakkında</string>
+    <string name="app_version">Bir üniversite projesidir.</string>
+    <string name="contact_me"></string>
+    <string name="dev1">Gökhan Tok</string>
+    <string name="dev2">Esra Kılıçarslan</string>
+    <string name="dev3">Çağla Çağlar</string>
+    <string name="made_by">Takım Arkadaşlarımız</string>
+    <string name="done_label">Bitti</string>
+    <string name="date_reminder_default">Bugün</string>
+    <string name="date_error_check_again">Girdiğiniz tarih geçmişe aittir.</string>
+    <string name="night_mode">Gece modu</string>
+    <string name="night_mode_on_summary">Gece modu açık</string>
+    <string name="night_mode_off_summary">Gece modu kapalı</string>
+
+
+    <string-array name="snooze_options">
+        <item>10 Dakika</item>
+        <item>30 Dakika</item>
+        <item>1 Saat</item>
+    </string-array>
+
+    <string name="snooze">Ertele</string>
+    <string name="remove">Sil</string>
+    <string name="share">Paylaş</string>
+    <string name="content">İçerik</string>
+    <string name="speech_prompt">Konuş!…</string>
+    <string name="speech_not_supported">Kusura bakmayın. Aygıtınız sesle girişi desteklemiyor</string>
+    <string name="tap_on_mic">Konuşmak için mikrofona dokunun</string>
+</resources>
